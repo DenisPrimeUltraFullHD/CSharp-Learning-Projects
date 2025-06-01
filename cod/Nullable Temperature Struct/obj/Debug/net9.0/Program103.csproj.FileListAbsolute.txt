@@ -1,0 +1,4 @@
+C:\Users\brom0\Desktop\zxc\cod\Program103\obj\Debug\net9.0\Program103.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brom0\Desktop\zxc\cod\Program103\obj\Debug\net9.0\Program103.AssemblyInfoInputs.cache
+C:\Users\brom0\Desktop\zxc\cod\Program103\obj\Debug\net9.0\Program103.AssemblyInfo.cs
+C:\Users\brom0\Desktop\zxc\cod\Program103\obj\Debug\net9.0\Program103.csproj.CoreCompileInputs.cache

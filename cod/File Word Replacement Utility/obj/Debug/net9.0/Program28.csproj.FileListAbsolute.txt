@@ -1,0 +1,14 @@
+C:\Users\brom0\Desktop\zxc\cod\Program28\bin\Debug\net9.0\Program28.exe
+C:\Users\brom0\Desktop\zxc\cod\Program28\bin\Debug\net9.0\Program28.deps.json
+C:\Users\brom0\Desktop\zxc\cod\Program28\bin\Debug\net9.0\Program28.runtimeconfig.json
+C:\Users\brom0\Desktop\zxc\cod\Program28\bin\Debug\net9.0\Program28.dll
+C:\Users\brom0\Desktop\zxc\cod\Program28\bin\Debug\net9.0\Program28.pdb
+C:\Users\brom0\Desktop\zxc\cod\Program28\obj\Debug\net9.0\Program28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brom0\Desktop\zxc\cod\Program28\obj\Debug\net9.0\Program28.AssemblyInfoInputs.cache
+C:\Users\brom0\Desktop\zxc\cod\Program28\obj\Debug\net9.0\Program28.AssemblyInfo.cs
+C:\Users\brom0\Desktop\zxc\cod\Program28\obj\Debug\net9.0\Program28.csproj.CoreCompileInputs.cache
+C:\Users\brom0\Desktop\zxc\cod\Program28\obj\Debug\net9.0\Program28.dll
+C:\Users\brom0\Desktop\zxc\cod\Program28\obj\Debug\net9.0\refint\Program28.dll
+C:\Users\brom0\Desktop\zxc\cod\Program28\obj\Debug\net9.0\Program28.pdb
+C:\Users\brom0\Desktop\zxc\cod\Program28\obj\Debug\net9.0\Program28.genruntimeconfig.cache
+C:\Users\brom0\Desktop\zxc\cod\Program28\obj\Debug\net9.0\ref\Program28.dll

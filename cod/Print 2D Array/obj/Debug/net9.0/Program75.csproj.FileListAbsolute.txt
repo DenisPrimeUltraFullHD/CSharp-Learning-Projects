@@ -1,0 +1,28 @@
+C:\Users\brom0\Desktop\zxc\cod\Program75\obj\Debug\net9.0\Program75.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brom0\Desktop\zxc\cod\Program75\obj\Debug\net9.0\Program75.AssemblyInfoInputs.cache
+C:\Users\brom0\Desktop\zxc\cod\Program75\obj\Debug\net9.0\Program75.AssemblyInfo.cs
+C:\Users\brom0\Desktop\zxc\cod\Program75\obj\Debug\net9.0\Program75.csproj.CoreCompileInputs.cache
+C:\Users\brom0\Desktop\zxc\cod\Program75\bin\Debug\net9.0\Program75.exe
+C:\Users\brom0\Desktop\zxc\cod\Program75\bin\Debug\net9.0\Program75.deps.json
+C:\Users\brom0\Desktop\zxc\cod\Program75\bin\Debug\net9.0\Program75.runtimeconfig.json
+C:\Users\brom0\Desktop\zxc\cod\Program75\bin\Debug\net9.0\Program75.dll
+C:\Users\brom0\Desktop\zxc\cod\Program75\bin\Debug\net9.0\Program75.pdb
+C:\Users\brom0\Desktop\zxc\cod\Program75\obj\Debug\net9.0\Program75.dll
+C:\Users\brom0\Desktop\zxc\cod\Program75\obj\Debug\net9.0\refint\Program75.dll
+C:\Users\brom0\Desktop\zxc\cod\Program75\obj\Debug\net9.0\Program75.pdb
+C:\Users\brom0\Desktop\zxc\cod\Program75\obj\Debug\net9.0\Program75.genruntimeconfig.cache
+C:\Users\brom0\Desktop\zxc\cod\Program75\obj\Debug\net9.0\ref\Program75.dll
+C:\Users\brom0\Desktop\zxc\cod\Print 2D Array\bin\Debug\net9.0\Program75.exe
+C:\Users\brom0\Desktop\zxc\cod\Print 2D Array\bin\Debug\net9.0\Program75.deps.json
+C:\Users\brom0\Desktop\zxc\cod\Print 2D Array\bin\Debug\net9.0\Program75.runtimeconfig.json
+C:\Users\brom0\Desktop\zxc\cod\Print 2D Array\bin\Debug\net9.0\Program75.dll
+C:\Users\brom0\Desktop\zxc\cod\Print 2D Array\bin\Debug\net9.0\Program75.pdb
+C:\Users\brom0\Desktop\zxc\cod\Print 2D Array\obj\Debug\net9.0\Program75.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brom0\Desktop\zxc\cod\Print 2D Array\obj\Debug\net9.0\Program75.AssemblyInfoInputs.cache
+C:\Users\brom0\Desktop\zxc\cod\Print 2D Array\obj\Debug\net9.0\Program75.AssemblyInfo.cs
+C:\Users\brom0\Desktop\zxc\cod\Print 2D Array\obj\Debug\net9.0\Program75.csproj.CoreCompileInputs.cache
+C:\Users\brom0\Desktop\zxc\cod\Print 2D Array\obj\Debug\net9.0\Program75.dll
+C:\Users\brom0\Desktop\zxc\cod\Print 2D Array\obj\Debug\net9.0\refint\Program75.dll
+C:\Users\brom0\Desktop\zxc\cod\Print 2D Array\obj\Debug\net9.0\Program75.pdb
+C:\Users\brom0\Desktop\zxc\cod\Print 2D Array\obj\Debug\net9.0\Program75.genruntimeconfig.cache
+C:\Users\brom0\Desktop\zxc\cod\Print 2D Array\obj\Debug\net9.0\ref\Program75.dll
