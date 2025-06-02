@@ -14,8 +14,6 @@ namespace cod
         
         double tall = 178.9;
      
-        
-        //Console.WriteLine("Меня зовут " + name + ", мне " + age + " лет, мой рост " + tall + "м.");
         Console.WriteLine($"Меня зовут {name}, мне {age} лет, мой рост {tall} м.");
         }
 
