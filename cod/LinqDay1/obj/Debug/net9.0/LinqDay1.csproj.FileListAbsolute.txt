@@ -1,0 +1,14 @@
+C:\Users\brom0\Desktop\zxc\cod\LinqDay1\obj\Debug\net9.0\LinqDay1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brom0\Desktop\zxc\cod\LinqDay1\obj\Debug\net9.0\LinqDay1.AssemblyInfoInputs.cache
+C:\Users\brom0\Desktop\zxc\cod\LinqDay1\obj\Debug\net9.0\LinqDay1.AssemblyInfo.cs
+C:\Users\brom0\Desktop\zxc\cod\LinqDay1\obj\Debug\net9.0\LinqDay1.csproj.CoreCompileInputs.cache
+C:\Users\brom0\Desktop\zxc\cod\LinqDay1\bin\Debug\net9.0\LinqDay1.exe
+C:\Users\brom0\Desktop\zxc\cod\LinqDay1\bin\Debug\net9.0\LinqDay1.deps.json
+C:\Users\brom0\Desktop\zxc\cod\LinqDay1\bin\Debug\net9.0\LinqDay1.runtimeconfig.json
+C:\Users\brom0\Desktop\zxc\cod\LinqDay1\bin\Debug\net9.0\LinqDay1.dll
+C:\Users\brom0\Desktop\zxc\cod\LinqDay1\bin\Debug\net9.0\LinqDay1.pdb
+C:\Users\brom0\Desktop\zxc\cod\LinqDay1\obj\Debug\net9.0\LinqDay1.dll
+C:\Users\brom0\Desktop\zxc\cod\LinqDay1\obj\Debug\net9.0\refint\LinqDay1.dll
+C:\Users\brom0\Desktop\zxc\cod\LinqDay1\obj\Debug\net9.0\LinqDay1.pdb
+C:\Users\brom0\Desktop\zxc\cod\LinqDay1\obj\Debug\net9.0\LinqDay1.genruntimeconfig.cache
+C:\Users\brom0\Desktop\zxc\cod\LinqDay1\obj\Debug\net9.0\ref\LinqDay1.dll

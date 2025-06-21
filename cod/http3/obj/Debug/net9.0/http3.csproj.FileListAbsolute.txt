@@ -1,0 +1,14 @@
+C:\Users\brom0\Desktop\zxc\cod\New folder\http3\obj\Debug\net9.0\http3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brom0\Desktop\zxc\cod\New folder\http3\obj\Debug\net9.0\http3.AssemblyInfoInputs.cache
+C:\Users\brom0\Desktop\zxc\cod\New folder\http3\obj\Debug\net9.0\http3.AssemblyInfo.cs
+C:\Users\brom0\Desktop\zxc\cod\New folder\http3\obj\Debug\net9.0\http3.csproj.CoreCompileInputs.cache
+C:\Users\brom0\Desktop\zxc\cod\New folder\http3\bin\Debug\net9.0\http3.exe
+C:\Users\brom0\Desktop\zxc\cod\New folder\http3\bin\Debug\net9.0\http3.deps.json
+C:\Users\brom0\Desktop\zxc\cod\New folder\http3\bin\Debug\net9.0\http3.runtimeconfig.json
+C:\Users\brom0\Desktop\zxc\cod\New folder\http3\bin\Debug\net9.0\http3.dll
+C:\Users\brom0\Desktop\zxc\cod\New folder\http3\bin\Debug\net9.0\http3.pdb
+C:\Users\brom0\Desktop\zxc\cod\New folder\http3\obj\Debug\net9.0\http3.dll
+C:\Users\brom0\Desktop\zxc\cod\New folder\http3\obj\Debug\net9.0\refint\http3.dll
+C:\Users\brom0\Desktop\zxc\cod\New folder\http3\obj\Debug\net9.0\http3.pdb
+C:\Users\brom0\Desktop\zxc\cod\New folder\http3\obj\Debug\net9.0\http3.genruntimeconfig.cache
+C:\Users\brom0\Desktop\zxc\cod\New folder\http3\obj\Debug\net9.0\ref\http3.dll

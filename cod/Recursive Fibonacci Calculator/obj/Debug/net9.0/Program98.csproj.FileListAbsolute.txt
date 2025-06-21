@@ -1,0 +1,14 @@
+C:\Users\brom0\Desktop\zxc\cod\Program98\obj\Debug\net9.0\Program98.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brom0\Desktop\zxc\cod\Program98\obj\Debug\net9.0\Program98.AssemblyInfoInputs.cache
+C:\Users\brom0\Desktop\zxc\cod\Program98\obj\Debug\net9.0\Program98.AssemblyInfo.cs
+C:\Users\brom0\Desktop\zxc\cod\Program98\obj\Debug\net9.0\Program98.csproj.CoreCompileInputs.cache
+C:\Users\brom0\Desktop\zxc\cod\Program98\bin\Debug\net9.0\Program98.exe
+C:\Users\brom0\Desktop\zxc\cod\Program98\bin\Debug\net9.0\Program98.deps.json
+C:\Users\brom0\Desktop\zxc\cod\Program98\bin\Debug\net9.0\Program98.runtimeconfig.json
+C:\Users\brom0\Desktop\zxc\cod\Program98\bin\Debug\net9.0\Program98.dll
+C:\Users\brom0\Desktop\zxc\cod\Program98\bin\Debug\net9.0\Program98.pdb
+C:\Users\brom0\Desktop\zxc\cod\Program98\obj\Debug\net9.0\Program98.dll
+C:\Users\brom0\Desktop\zxc\cod\Program98\obj\Debug\net9.0\refint\Program98.dll
+C:\Users\brom0\Desktop\zxc\cod\Program98\obj\Debug\net9.0\Program98.pdb
+C:\Users\brom0\Desktop\zxc\cod\Program98\obj\Debug\net9.0\Program98.genruntimeconfig.cache
+C:\Users\brom0\Desktop\zxc\cod\Program98\obj\Debug\net9.0\ref\Program98.dll

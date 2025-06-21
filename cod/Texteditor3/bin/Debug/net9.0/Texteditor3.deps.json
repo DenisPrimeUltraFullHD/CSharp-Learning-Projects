@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Texteditor3/1.0.0": {
+        "runtime": {
+          "Texteditor3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Texteditor3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

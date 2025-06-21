@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IpoaibwT3rg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\brom0\\Desktop\\zxc\\New folder\\netcli\\netcli.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brom0\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

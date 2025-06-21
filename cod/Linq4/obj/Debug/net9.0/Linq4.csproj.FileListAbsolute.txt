@@ -1,0 +1,14 @@
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq4\bin\Debug\net9.0\Linq4.exe
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq4\bin\Debug\net9.0\Linq4.deps.json
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq4\bin\Debug\net9.0\Linq4.runtimeconfig.json
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq4\bin\Debug\net9.0\Linq4.dll
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq4\bin\Debug\net9.0\Linq4.pdb
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq4\obj\Debug\net9.0\Linq4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq4\obj\Debug\net9.0\Linq4.AssemblyInfoInputs.cache
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq4\obj\Debug\net9.0\Linq4.AssemblyInfo.cs
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq4\obj\Debug\net9.0\Linq4.csproj.CoreCompileInputs.cache
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq4\obj\Debug\net9.0\Linq4.dll
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq4\obj\Debug\net9.0\refint\Linq4.dll
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq4\obj\Debug\net9.0\Linq4.pdb
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq4\obj\Debug\net9.0\Linq4.genruntimeconfig.cache
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq4\obj\Debug\net9.0\ref\Linq4.dll

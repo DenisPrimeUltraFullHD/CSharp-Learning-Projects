@@ -1,0 +1,14 @@
+C:\Users\brom0\Desktop\zxc\cod\Texteditor4\obj\Debug\net9.0\Texteditor4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brom0\Desktop\zxc\cod\Texteditor4\obj\Debug\net9.0\Texteditor4.AssemblyInfoInputs.cache
+C:\Users\brom0\Desktop\zxc\cod\Texteditor4\obj\Debug\net9.0\Texteditor4.AssemblyInfo.cs
+C:\Users\brom0\Desktop\zxc\cod\Texteditor4\obj\Debug\net9.0\Texteditor4.csproj.CoreCompileInputs.cache
+C:\Users\brom0\Desktop\zxc\cod\Texteditor4\bin\Debug\net9.0\Texteditor4.exe
+C:\Users\brom0\Desktop\zxc\cod\Texteditor4\bin\Debug\net9.0\Texteditor4.deps.json
+C:\Users\brom0\Desktop\zxc\cod\Texteditor4\bin\Debug\net9.0\Texteditor4.runtimeconfig.json
+C:\Users\brom0\Desktop\zxc\cod\Texteditor4\bin\Debug\net9.0\Texteditor4.dll
+C:\Users\brom0\Desktop\zxc\cod\Texteditor4\bin\Debug\net9.0\Texteditor4.pdb
+C:\Users\brom0\Desktop\zxc\cod\Texteditor4\obj\Debug\net9.0\Texteditor4.dll
+C:\Users\brom0\Desktop\zxc\cod\Texteditor4\obj\Debug\net9.0\refint\Texteditor4.dll
+C:\Users\brom0\Desktop\zxc\cod\Texteditor4\obj\Debug\net9.0\Texteditor4.pdb
+C:\Users\brom0\Desktop\zxc\cod\Texteditor4\obj\Debug\net9.0\Texteditor4.genruntimeconfig.cache
+C:\Users\brom0\Desktop\zxc\cod\Texteditor4\obj\Debug\net9.0\ref\Texteditor4.dll

@@ -1,0 +1,14 @@
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq6\bin\Debug\net9.0\Linq6.exe
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq6\bin\Debug\net9.0\Linq6.deps.json
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq6\bin\Debug\net9.0\Linq6.runtimeconfig.json
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq6\bin\Debug\net9.0\Linq6.dll
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq6\bin\Debug\net9.0\Linq6.pdb
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq6\obj\Debug\net9.0\Linq6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq6\obj\Debug\net9.0\Linq6.AssemblyInfoInputs.cache
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq6\obj\Debug\net9.0\Linq6.AssemblyInfo.cs
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq6\obj\Debug\net9.0\Linq6.csproj.CoreCompileInputs.cache
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq6\obj\Debug\net9.0\Linq6.dll
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq6\obj\Debug\net9.0\refint\Linq6.dll
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq6\obj\Debug\net9.0\Linq6.pdb
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq6\obj\Debug\net9.0\Linq6.genruntimeconfig.cache
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq6\obj\Debug\net9.0\ref\Linq6.dll

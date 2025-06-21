@@ -1,0 +1,14 @@
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq3\obj\Debug\net9.0\Linq3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq3\obj\Debug\net9.0\Linq3.AssemblyInfoInputs.cache
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq3\obj\Debug\net9.0\Linq3.AssemblyInfo.cs
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq3\obj\Debug\net9.0\Linq3.csproj.CoreCompileInputs.cache
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq3\bin\Debug\net9.0\Linq3.exe
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq3\bin\Debug\net9.0\Linq3.deps.json
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq3\bin\Debug\net9.0\Linq3.runtimeconfig.json
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq3\bin\Debug\net9.0\Linq3.dll
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq3\bin\Debug\net9.0\Linq3.pdb
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq3\obj\Debug\net9.0\Linq3.dll
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq3\obj\Debug\net9.0\refint\Linq3.dll
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq3\obj\Debug\net9.0\Linq3.pdb
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq3\obj\Debug\net9.0\Linq3.genruntimeconfig.cache
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq3\obj\Debug\net9.0\ref\Linq3.dll

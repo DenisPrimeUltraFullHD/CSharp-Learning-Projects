@@ -1,0 +1,14 @@
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Generics1\obj\Debug\net9.0\Generics1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Generics1\obj\Debug\net9.0\Generics1.AssemblyInfoInputs.cache
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Generics1\obj\Debug\net9.0\Generics1.AssemblyInfo.cs
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Generics1\obj\Debug\net9.0\Generics1.csproj.CoreCompileInputs.cache
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Generics1\bin\Debug\net9.0\Generics1.exe
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Generics1\bin\Debug\net9.0\Generics1.deps.json
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Generics1\bin\Debug\net9.0\Generics1.runtimeconfig.json
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Generics1\bin\Debug\net9.0\Generics1.dll
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Generics1\bin\Debug\net9.0\Generics1.pdb
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Generics1\obj\Debug\net9.0\Generics1.dll
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Generics1\obj\Debug\net9.0\refint\Generics1.dll
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Generics1\obj\Debug\net9.0\Generics1.pdb
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Generics1\obj\Debug\net9.0\Generics1.genruntimeconfig.cache
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Generics1\obj\Debug\net9.0\ref\Generics1.dll

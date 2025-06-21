@@ -1,0 +1,17 @@
+C:\Users\brom0\Desktop\zxc\New folder\csproj\obj\Debug\net9.0\csproj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brom0\Desktop\zxc\New folder\csproj\obj\Debug\net9.0\csproj.AssemblyInfoInputs.cache
+C:\Users\brom0\Desktop\zxc\New folder\csproj\obj\Debug\net9.0\csproj.AssemblyInfo.cs
+C:\Users\brom0\Desktop\zxc\New folder\csproj\obj\Debug\net9.0\csproj.csproj.CoreCompileInputs.cache
+C:\Users\brom0\Desktop\zxc\New folder\csproj\bin\Debug\net9.0\csproj.exe
+C:\Users\brom0\Desktop\zxc\New folder\csproj\bin\Debug\net9.0\csproj.deps.json
+C:\Users\brom0\Desktop\zxc\New folder\csproj\bin\Debug\net9.0\csproj.runtimeconfig.json
+C:\Users\brom0\Desktop\zxc\New folder\csproj\bin\Debug\net9.0\csproj.dll
+C:\Users\brom0\Desktop\zxc\New folder\csproj\bin\Debug\net9.0\csproj.pdb
+C:\Users\brom0\Desktop\zxc\New folder\csproj\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\brom0\Desktop\zxc\New folder\csproj\obj\Debug\net9.0\csproj.csproj.AssemblyReference.cache
+C:\Users\brom0\Desktop\zxc\New folder\csproj\obj\Debug\net9.0\csproj.csproj.Up2Date
+C:\Users\brom0\Desktop\zxc\New folder\csproj\obj\Debug\net9.0\csproj.dll
+C:\Users\brom0\Desktop\zxc\New folder\csproj\obj\Debug\net9.0\refint\csproj.dll
+C:\Users\brom0\Desktop\zxc\New folder\csproj\obj\Debug\net9.0\csproj.pdb
+C:\Users\brom0\Desktop\zxc\New folder\csproj\obj\Debug\net9.0\csproj.genruntimeconfig.cache
+C:\Users\brom0\Desktop\zxc\New folder\csproj\obj\Debug\net9.0\ref\csproj.dll

@@ -1,0 +1,4 @@
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Generics5\obj\Debug\net9.0\Generics5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Generics5\obj\Debug\net9.0\Generics5.AssemblyInfoInputs.cache
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Generics5\obj\Debug\net9.0\Generics5.AssemblyInfo.cs
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Generics5\obj\Debug\net9.0\Generics5.csproj.CoreCompileInputs.cache

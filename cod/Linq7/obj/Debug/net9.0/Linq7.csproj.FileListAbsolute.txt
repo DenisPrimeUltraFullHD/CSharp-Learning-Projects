@@ -1,0 +1,14 @@
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq7\bin\Debug\net9.0\Linq7.exe
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq7\bin\Debug\net9.0\Linq7.deps.json
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq7\bin\Debug\net9.0\Linq7.runtimeconfig.json
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq7\bin\Debug\net9.0\Linq7.dll
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq7\bin\Debug\net9.0\Linq7.pdb
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq7\obj\Debug\net9.0\Linq7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq7\obj\Debug\net9.0\Linq7.AssemblyInfoInputs.cache
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq7\obj\Debug\net9.0\Linq7.AssemblyInfo.cs
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq7\obj\Debug\net9.0\Linq7.csproj.CoreCompileInputs.cache
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq7\obj\Debug\net9.0\Linq7.dll
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq7\obj\Debug\net9.0\refint\Linq7.dll
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq7\obj\Debug\net9.0\Linq7.pdb
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq7\obj\Debug\net9.0\Linq7.genruntimeconfig.cache
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq7\obj\Debug\net9.0\ref\Linq7.dll

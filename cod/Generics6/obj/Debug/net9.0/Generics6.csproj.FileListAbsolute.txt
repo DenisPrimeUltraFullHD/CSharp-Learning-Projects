@@ -1,0 +1,14 @@
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Generics6\obj\Debug\net9.0\Generics6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Generics6\obj\Debug\net9.0\Generics6.AssemblyInfoInputs.cache
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Generics6\obj\Debug\net9.0\Generics6.AssemblyInfo.cs
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Generics6\obj\Debug\net9.0\Generics6.csproj.CoreCompileInputs.cache
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Generics6\bin\Debug\net9.0\Generics6.exe
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Generics6\bin\Debug\net9.0\Generics6.deps.json
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Generics6\bin\Debug\net9.0\Generics6.runtimeconfig.json
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Generics6\bin\Debug\net9.0\Generics6.dll
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Generics6\bin\Debug\net9.0\Generics6.pdb
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Generics6\obj\Debug\net9.0\Generics6.dll
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Generics6\obj\Debug\net9.0\refint\Generics6.dll
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Generics6\obj\Debug\net9.0\Generics6.pdb
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Generics6\obj\Debug\net9.0\Generics6.genruntimeconfig.cache
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Generics6\obj\Debug\net9.0\ref\Generics6.dll

@@ -1,0 +1,14 @@
+C:\Users\brom0\Desktop\zxc\cod\asyncancel\obj\Debug\net9.0\asyncancel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brom0\Desktop\zxc\cod\asyncancel\obj\Debug\net9.0\asyncancel.AssemblyInfoInputs.cache
+C:\Users\brom0\Desktop\zxc\cod\asyncancel\obj\Debug\net9.0\asyncancel.AssemblyInfo.cs
+C:\Users\brom0\Desktop\zxc\cod\asyncancel\obj\Debug\net9.0\asyncancel.csproj.CoreCompileInputs.cache
+C:\Users\brom0\Desktop\zxc\cod\asyncancel\bin\Debug\net9.0\asyncancel.exe
+C:\Users\brom0\Desktop\zxc\cod\asyncancel\bin\Debug\net9.0\asyncancel.deps.json
+C:\Users\brom0\Desktop\zxc\cod\asyncancel\bin\Debug\net9.0\asyncancel.runtimeconfig.json
+C:\Users\brom0\Desktop\zxc\cod\asyncancel\bin\Debug\net9.0\asyncancel.dll
+C:\Users\brom0\Desktop\zxc\cod\asyncancel\bin\Debug\net9.0\asyncancel.pdb
+C:\Users\brom0\Desktop\zxc\cod\asyncancel\obj\Debug\net9.0\asyncancel.dll
+C:\Users\brom0\Desktop\zxc\cod\asyncancel\obj\Debug\net9.0\refint\asyncancel.dll
+C:\Users\brom0\Desktop\zxc\cod\asyncancel\obj\Debug\net9.0\asyncancel.pdb
+C:\Users\brom0\Desktop\zxc\cod\asyncancel\obj\Debug\net9.0\asyncancel.genruntimeconfig.cache
+C:\Users\brom0\Desktop\zxc\cod\asyncancel\obj\Debug\net9.0\ref\asyncancel.dll

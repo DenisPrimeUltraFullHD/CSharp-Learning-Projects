@@ -1,0 +1,14 @@
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq2\obj\Debug\net9.0\Linq2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq2\obj\Debug\net9.0\Linq2.AssemblyInfoInputs.cache
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq2\obj\Debug\net9.0\Linq2.AssemblyInfo.cs
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq2\obj\Debug\net9.0\Linq2.csproj.CoreCompileInputs.cache
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq2\bin\Debug\net9.0\Linq2.exe
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq2\bin\Debug\net9.0\Linq2.deps.json
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq2\bin\Debug\net9.0\Linq2.runtimeconfig.json
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq2\bin\Debug\net9.0\Linq2.dll
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq2\bin\Debug\net9.0\Linq2.pdb
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq2\obj\Debug\net9.0\Linq2.dll
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq2\obj\Debug\net9.0\refint\Linq2.dll
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq2\obj\Debug\net9.0\Linq2.pdb
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq2\obj\Debug\net9.0\Linq2.genruntimeconfig.cache
+C:\Users\brom0\Desktop\zxc\Programming\C# learn new\Linq2\obj\Debug\net9.0\ref\Linq2.dll

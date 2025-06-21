@@ -1,0 +1,14 @@
+C:\Users\brom0\Desktop\zxc\cod\Program35\obj\Debug\net9.0\Program35.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brom0\Desktop\zxc\cod\Program35\obj\Debug\net9.0\Program35.AssemblyInfoInputs.cache
+C:\Users\brom0\Desktop\zxc\cod\Program35\obj\Debug\net9.0\Program35.AssemblyInfo.cs
+C:\Users\brom0\Desktop\zxc\cod\Program35\obj\Debug\net9.0\Program35.csproj.CoreCompileInputs.cache
+C:\Users\brom0\Desktop\zxc\cod\Program35\bin\Debug\net9.0\Program35.exe
+C:\Users\brom0\Desktop\zxc\cod\Program35\bin\Debug\net9.0\Program35.deps.json
+C:\Users\brom0\Desktop\zxc\cod\Program35\bin\Debug\net9.0\Program35.runtimeconfig.json
+C:\Users\brom0\Desktop\zxc\cod\Program35\bin\Debug\net9.0\Program35.dll
+C:\Users\brom0\Desktop\zxc\cod\Program35\bin\Debug\net9.0\Program35.pdb
+C:\Users\brom0\Desktop\zxc\cod\Program35\obj\Debug\net9.0\Program35.dll
+C:\Users\brom0\Desktop\zxc\cod\Program35\obj\Debug\net9.0\refint\Program35.dll
+C:\Users\brom0\Desktop\zxc\cod\Program35\obj\Debug\net9.0\Program35.pdb
+C:\Users\brom0\Desktop\zxc\cod\Program35\obj\Debug\net9.0\Program35.genruntimeconfig.cache
+C:\Users\brom0\Desktop\zxc\cod\Program35\obj\Debug\net9.0\ref\Program35.dll

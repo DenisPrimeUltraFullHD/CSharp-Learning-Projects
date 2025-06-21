@@ -1,0 +1,14 @@
+C:\Users\brom0\Desktop\zxc\cod\async1\bin\Debug\net9.0\async1.exe
+C:\Users\brom0\Desktop\zxc\cod\async1\bin\Debug\net9.0\async1.deps.json
+C:\Users\brom0\Desktop\zxc\cod\async1\bin\Debug\net9.0\async1.runtimeconfig.json
+C:\Users\brom0\Desktop\zxc\cod\async1\bin\Debug\net9.0\async1.dll
+C:\Users\brom0\Desktop\zxc\cod\async1\bin\Debug\net9.0\async1.pdb
+C:\Users\brom0\Desktop\zxc\cod\async1\obj\Debug\net9.0\async1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brom0\Desktop\zxc\cod\async1\obj\Debug\net9.0\async1.AssemblyInfoInputs.cache
+C:\Users\brom0\Desktop\zxc\cod\async1\obj\Debug\net9.0\async1.AssemblyInfo.cs
+C:\Users\brom0\Desktop\zxc\cod\async1\obj\Debug\net9.0\async1.csproj.CoreCompileInputs.cache
+C:\Users\brom0\Desktop\zxc\cod\async1\obj\Debug\net9.0\async1.dll
+C:\Users\brom0\Desktop\zxc\cod\async1\obj\Debug\net9.0\refint\async1.dll
+C:\Users\brom0\Desktop\zxc\cod\async1\obj\Debug\net9.0\async1.pdb
+C:\Users\brom0\Desktop\zxc\cod\async1\obj\Debug\net9.0\async1.genruntimeconfig.cache
+C:\Users\brom0\Desktop\zxc\cod\async1\obj\Debug\net9.0\ref\async1.dll

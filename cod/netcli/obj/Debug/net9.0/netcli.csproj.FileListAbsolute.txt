@@ -1,0 +1,17 @@
+C:\Users\brom0\Desktop\zxc\New folder\netcli\bin\Debug\net9.0\netcli.exe
+C:\Users\brom0\Desktop\zxc\New folder\netcli\bin\Debug\net9.0\netcli.deps.json
+C:\Users\brom0\Desktop\zxc\New folder\netcli\bin\Debug\net9.0\netcli.runtimeconfig.json
+C:\Users\brom0\Desktop\zxc\New folder\netcli\bin\Debug\net9.0\netcli.dll
+C:\Users\brom0\Desktop\zxc\New folder\netcli\bin\Debug\net9.0\netcli.pdb
+C:\Users\brom0\Desktop\zxc\New folder\netcli\obj\Debug\net9.0\netcli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brom0\Desktop\zxc\New folder\netcli\obj\Debug\net9.0\netcli.AssemblyInfoInputs.cache
+C:\Users\brom0\Desktop\zxc\New folder\netcli\obj\Debug\net9.0\netcli.AssemblyInfo.cs
+C:\Users\brom0\Desktop\zxc\New folder\netcli\obj\Debug\net9.0\netcli.csproj.CoreCompileInputs.cache
+C:\Users\brom0\Desktop\zxc\New folder\netcli\obj\Debug\net9.0\netcli.dll
+C:\Users\brom0\Desktop\zxc\New folder\netcli\obj\Debug\net9.0\refint\netcli.dll
+C:\Users\brom0\Desktop\zxc\New folder\netcli\obj\Debug\net9.0\netcli.pdb
+C:\Users\brom0\Desktop\zxc\New folder\netcli\obj\Debug\net9.0\netcli.genruntimeconfig.cache
+C:\Users\brom0\Desktop\zxc\New folder\netcli\obj\Debug\net9.0\ref\netcli.dll
+C:\Users\brom0\Desktop\zxc\New folder\netcli\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\brom0\Desktop\zxc\New folder\netcli\obj\Debug\net9.0\netcli.csproj.AssemblyReference.cache
+C:\Users\brom0\Desktop\zxc\New folder\netcli\obj\Debug\net9.0\netcli.csproj.Up2Date

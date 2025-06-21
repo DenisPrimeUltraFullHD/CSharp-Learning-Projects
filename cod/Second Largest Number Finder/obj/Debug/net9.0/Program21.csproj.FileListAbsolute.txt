@@ -1,0 +1,14 @@
+C:\Users\brom0\Desktop\zxc\cod\Program21\bin\Debug\net9.0\Program21.exe
+C:\Users\brom0\Desktop\zxc\cod\Program21\bin\Debug\net9.0\Program21.deps.json
+C:\Users\brom0\Desktop\zxc\cod\Program21\bin\Debug\net9.0\Program21.runtimeconfig.json
+C:\Users\brom0\Desktop\zxc\cod\Program21\bin\Debug\net9.0\Program21.dll
+C:\Users\brom0\Desktop\zxc\cod\Program21\bin\Debug\net9.0\Program21.pdb
+C:\Users\brom0\Desktop\zxc\cod\Program21\obj\Debug\net9.0\Program21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brom0\Desktop\zxc\cod\Program21\obj\Debug\net9.0\Program21.AssemblyInfoInputs.cache
+C:\Users\brom0\Desktop\zxc\cod\Program21\obj\Debug\net9.0\Program21.AssemblyInfo.cs
+C:\Users\brom0\Desktop\zxc\cod\Program21\obj\Debug\net9.0\Program21.csproj.CoreCompileInputs.cache
+C:\Users\brom0\Desktop\zxc\cod\Program21\obj\Debug\net9.0\Program21.dll
+C:\Users\brom0\Desktop\zxc\cod\Program21\obj\Debug\net9.0\refint\Program21.dll
+C:\Users\brom0\Desktop\zxc\cod\Program21\obj\Debug\net9.0\Program21.pdb
+C:\Users\brom0\Desktop\zxc\cod\Program21\obj\Debug\net9.0\Program21.genruntimeconfig.cache
+C:\Users\brom0\Desktop\zxc\cod\Program21\obj\Debug\net9.0\ref\Program21.dll

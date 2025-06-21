@@ -1,0 +1,14 @@
+C:\Users\brom0\Desktop\zxc\cod\New folder\cancel_token\obj\Debug\net9.0\cancel_token.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brom0\Desktop\zxc\cod\New folder\cancel_token\obj\Debug\net9.0\cancel_token.AssemblyInfoInputs.cache
+C:\Users\brom0\Desktop\zxc\cod\New folder\cancel_token\obj\Debug\net9.0\cancel_token.AssemblyInfo.cs
+C:\Users\brom0\Desktop\zxc\cod\New folder\cancel_token\obj\Debug\net9.0\cancel_token.csproj.CoreCompileInputs.cache
+C:\Users\brom0\Desktop\zxc\cod\New folder\cancel_token\bin\Debug\net9.0\cancel_token.exe
+C:\Users\brom0\Desktop\zxc\cod\New folder\cancel_token\bin\Debug\net9.0\cancel_token.deps.json
+C:\Users\brom0\Desktop\zxc\cod\New folder\cancel_token\bin\Debug\net9.0\cancel_token.runtimeconfig.json
+C:\Users\brom0\Desktop\zxc\cod\New folder\cancel_token\bin\Debug\net9.0\cancel_token.dll
+C:\Users\brom0\Desktop\zxc\cod\New folder\cancel_token\bin\Debug\net9.0\cancel_token.pdb
+C:\Users\brom0\Desktop\zxc\cod\New folder\cancel_token\obj\Debug\net9.0\cancel_token.dll
+C:\Users\brom0\Desktop\zxc\cod\New folder\cancel_token\obj\Debug\net9.0\refint\cancel_token.dll
+C:\Users\brom0\Desktop\zxc\cod\New folder\cancel_token\obj\Debug\net9.0\cancel_token.pdb
+C:\Users\brom0\Desktop\zxc\cod\New folder\cancel_token\obj\Debug\net9.0\cancel_token.genruntimeconfig.cache
+C:\Users\brom0\Desktop\zxc\cod\New folder\cancel_token\obj\Debug\net9.0\ref\cancel_token.dll

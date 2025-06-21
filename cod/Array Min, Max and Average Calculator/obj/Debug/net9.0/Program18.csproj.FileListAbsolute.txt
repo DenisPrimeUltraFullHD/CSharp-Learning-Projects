@@ -1,0 +1,14 @@
+C:\Users\brom0\Desktop\zxc\cod\Program18\obj\Debug\net9.0\Program18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brom0\Desktop\zxc\cod\Program18\obj\Debug\net9.0\Program18.AssemblyInfoInputs.cache
+C:\Users\brom0\Desktop\zxc\cod\Program18\obj\Debug\net9.0\Program18.AssemblyInfo.cs
+C:\Users\brom0\Desktop\zxc\cod\Program18\obj\Debug\net9.0\Program18.csproj.CoreCompileInputs.cache
+C:\Users\brom0\Desktop\zxc\cod\Program18\bin\Debug\net9.0\Program18.exe
+C:\Users\brom0\Desktop\zxc\cod\Program18\bin\Debug\net9.0\Program18.deps.json
+C:\Users\brom0\Desktop\zxc\cod\Program18\bin\Debug\net9.0\Program18.runtimeconfig.json
+C:\Users\brom0\Desktop\zxc\cod\Program18\bin\Debug\net9.0\Program18.dll
+C:\Users\brom0\Desktop\zxc\cod\Program18\bin\Debug\net9.0\Program18.pdb
+C:\Users\brom0\Desktop\zxc\cod\Program18\obj\Debug\net9.0\Program18.dll
+C:\Users\brom0\Desktop\zxc\cod\Program18\obj\Debug\net9.0\refint\Program18.dll
+C:\Users\brom0\Desktop\zxc\cod\Program18\obj\Debug\net9.0\Program18.pdb
+C:\Users\brom0\Desktop\zxc\cod\Program18\obj\Debug\net9.0\Program18.genruntimeconfig.cache
+C:\Users\brom0\Desktop\zxc\cod\Program18\obj\Debug\net9.0\ref\Program18.dll
