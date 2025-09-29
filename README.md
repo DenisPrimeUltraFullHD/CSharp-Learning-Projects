@@ -4,7 +4,7 @@ Welcome to my C# learning repository! 👨‍💻
 
 ## 📁 Folder Structure:
 
-### 📂 `код/`
+### 📂 `cod/`
 Contains **100+ simple C# console applications** created throughout my learning journey.  
 These programs cover basic syntax, logic, control structures, and fundamental features of the C# language.  
 This folder reflects my daily practice and consistent growth as a developer.
